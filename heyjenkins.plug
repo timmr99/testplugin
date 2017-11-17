@@ -1,0 +1,13 @@
+[Core]
+name = heyjenkins
+module = heyjenkins
+
+[Documentation]
+description = Jenkins plugin
+
+[Python]
+version = 3
+
+[Errbot]
+max = 5.1.3
+
